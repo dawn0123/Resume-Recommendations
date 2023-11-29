@@ -202,11 +202,3 @@ The results display the top words and links to active postings on www.indeed.com
 
 
 
-# Contributors
-
-
-|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![Aqeel Ali](images/AuthorPic.jpg)
-	
-Aqeel Ali
-
